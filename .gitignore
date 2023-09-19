@@ -34,12 +34,9 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
+# frontendMentor
 *.sketch
 *.fig
-
-
 *.xd
-
-
 .DS_Store
 .prettierignore
